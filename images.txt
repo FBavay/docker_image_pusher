@@ -1,3 +1,5 @@
+alpine
+python
 --platform=linux/arm64 python
 
 nginx
