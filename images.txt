@@ -1,3 +1,4 @@
+--platform=arm64 tomcat
 --platform=arm64 mongo
 --platform=arm64 postgres
 --platform=arm64 mysql
