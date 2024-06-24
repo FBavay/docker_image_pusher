@@ -1,8 +1,8 @@
---platform=arm64 tomcat
---platform=arm64 mongo
---platform=arm64 postgres
---platform=arm64 mysql
---platform=arm64 python
+--platform=linux/arm64/v8 tomcat
+#--platform=arm64 mongo
+#--platform=arm64 postgres
+--platform=linux/arm64 mysql
+--platform=linux/arm64/v8 python
 
 #nginx
 #支持私库
